@@ -1,0 +1,13 @@
+{
+	"url": "https://opensource-demo.orangehrmlive.com/index.php/auth/login",
+	"browser": "firefox",
+	"username": "b",
+	"password": "v",
+	"db_servername": "DESKTOP-IIJ6BC7\\SQLEXPRESS",
+	"db_name": "TestResult",
+	"db_encrypt": "true",
+	"db_trustservercertificate": "true",
+	"db_integratedsecurity": "true",
+	"jdbc_driverclass": "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+	"java_librarypath": "C:\\Program Files\\Java\\sqljdbc_12.6\\enu\\auth\\x64\\mssql-jdbc_auth-12.6.2.x64.dll"
+}
